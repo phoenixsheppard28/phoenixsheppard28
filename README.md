@@ -1,5 +1,5 @@
 # About Me:
-CS student at The University of Michigan<br><br>Interests:<br>Machine Learning<br>Web Development<br>Renewable Energy<br><br>Currently building QuickSync, a software to sync invoices between Intuit Quickbooks and Yardi VendorCafe using the Quckbooks API, FastAPI, and React
+CS student at The University of Michigan<br><br>Interests:<br>Machine Learning<br>Web Development<br>Renewable Energy<br><br>Currently building QuickSync, a software to sync invoices between Intuit Quickbooks and Yardi VendorCafe using the Quickbooks API, FastAPI, and React
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phoenixsheppard) 
