@@ -1,5 +1,5 @@
 #  About Me:
-CS student at The University of Michigan<br><br>Interests:<br>Machine Learning<br>Web Development<br>Renewable Energy
+CS student at The University of Michigan<br><br>Interests:<br>Machine Learning<br>Web Development<br>Renewable Energy<br>Open Source Intelligence
 
 
 # 💻 Tech Stack:
